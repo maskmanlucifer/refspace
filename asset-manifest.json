@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/refspace/static/css/main.bff79ffa.css",
+    "main.js": "/refspace/static/js/main.18035db2.js",
+    "index.html": "/refspace/index.html",
+    "main.bff79ffa.css.map": "/refspace/static/css/main.bff79ffa.css.map",
+    "main.18035db2.js.map": "/refspace/static/js/main.18035db2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bff79ffa.css",
+    "static/js/main.18035db2.js"
+  ]
+}

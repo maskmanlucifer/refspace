@@ -2,15 +2,15 @@
 
 A simple React app for perspective drawing reference with cubes and cylinders.
 
+## Live Demo
+
+🌐 **[View Live Demo](https://maskmanlucifer.github.io/refspace/)**
+
 ## Features
 
 - **Two tabs**: Cubes and Cylinders
 - **Perspective rotation**: View objects from different angles
-- **Show/hide options**: Toggle non-viewing lines and vanishing points
-- **Face coloring**: Customize the color of object faces
-- **Random perspective**: Press Tab to generate random perspective
-- **PNG download**: Save perspective images
-- **Drawing notes**: Basic tips for perspective drawing
+- **Random perspective**: Press Tab or Space to generate random perspective
 
 ## Getting Started
 
@@ -28,12 +28,9 @@ npm start
 
 ## Deployment to GitHub Pages
 
-1. Update the `homepage` field in `package.json` with your GitHub username:
-```json
-"homepage": "https://yourusername.github.io/refspace"
-```
+This project is deployed to GitHub Pages at: **https://maskmanlucifer.github.io/refspace/**
 
-2. Deploy to GitHub Pages:
+To deploy updates:
 ```bash
 npm run deploy
 ```
@@ -41,11 +38,8 @@ npm run deploy
 ## Usage
 
 - Switch between **Cubes** and **Cylinders** tabs
-- Use checkboxes to show/hide non-viewing lines and vanishing points
-- Change face color with the color picker
-- Press **Tab** key to generate random perspective
-- Click **Download PNG** to save the current view
-- Refer to the drawing notes for perspective drawing tips
+- Press **Tab** or **Space** key to generate random perspective
+- Use the **Random Perspective** button for manual generation
 
 ## Simple Design
 
